@@ -15,10 +15,9 @@ params:
   #  icon: images/logo.svg
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
-  # mainSections:
-  #   - posts
-  #   - notes
-
+  mainSections:
+    - posts
+    
   # theme params
   DisableLanguageSwitch: true
   TocOpen: true
