@@ -1,4 +1,4 @@
-title: PaperModX Example Site
+title: Sladyn's Blog
 baseURL: "https://reorx.github.io/papermodx-example/"
 theme: PaperModX
 
@@ -15,9 +15,9 @@ params:
   #  icon: images/logo.svg
   DateFormat: "2006-01-02"
   useCustomAnalytics: true
-  mainSections:
-    - posts
-    - notes
+  # mainSections:
+  #   - posts
+  #   - notes
 
   # theme params
   DisableLanguageSwitch: true
@@ -52,18 +52,10 @@ params:
       username: novoreorx
 
   homeInfoParams:
-    Title: "PaperModX"
+    Title: "Sladyn's Blog"
     Content: |
-      Welcome to demo of hugo's theme PaperModX.
-
-      - **PaperModX** is a simple but fast and responsive theme with useful feature-set that enhances UX.
-
-      - PaperModX is based on theme [PaperMod](https://github.com/adityatelange/hugo-PaperMod).
-
-      To get started, please head to the [Docs](docs).
-
-      To see examples of different contents, head to [examples tag](tags/example).
-
+      This is my personal blog. All opinions are my own. I am a huge open source enthusiast and 
+      love to share my opinion on a ton of stuff. Feel free to join me in this learning journey.
   #commentSystems:
   #  disqus:
   #    shortname: reorx
@@ -94,9 +86,6 @@ menu:
     - name: Notes
       url: /notes/
       weight: 2
-    - name: Newsletter
-      url: /newsletter/
-      weight: 3
     - name: Archives
       url: /archives/
       weight: 4

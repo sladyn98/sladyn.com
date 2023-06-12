@@ -24,8 +24,6 @@ third party image:
 
 ## Twitter Simple Shortcode
 
-{{<social-quote-tweet id="1514543333951291392" user="novoreorx" />}}
-
 <br>
 
 ## YouTube Privacy Enhanced Shortcode
